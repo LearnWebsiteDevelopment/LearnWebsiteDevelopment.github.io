@@ -1,0 +1,59 @@
+body {
+    background-color: #1a1a1a;
+}
+
+h1 {
+    color: white;
+    font-family: 'My Soul', cursive;
+    font-weight: 700;
+
+}
+
+h2 {
+    color: white;
+    font-family: 'My Soul', cursive;
+    font-weight: 400;
+
+}
+
+body {
+    color: lightblue;
+    font-family: 'Syncopate', sans-serif;
+}
+
+button {
+    background-color: #ffeb91 ;
+    font-family: 'My Soul', cursive;
+    font-size: 32px;
+    font-weight: 700;
+    border: 0px;
+    border: none;
+    padding: 20px;
+
+}
+
+
+button:hover {
+    background-color: #000000 !important;
+    color: red;
+    font-family: 'My Soul', cursive;
+    font-size: 32px;
+    font-weight: 700;
+    border: 0px;
+    border: none;
+    padding: 20px;
+    cursor: pointer;
+
+}
+
+
+img {
+    width: 400px;
+    border: 10px;
+    border-color: blue;
+}
+
+#contact {
+    background-color: pink;
+    cursor: help;
+}
